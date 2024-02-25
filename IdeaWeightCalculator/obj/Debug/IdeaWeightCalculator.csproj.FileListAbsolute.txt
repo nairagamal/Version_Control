@@ -1,0 +1,7 @@
+D:\web development\Linq EF\IdeaWeightCalculator\IdeaWeightCalculator\bin\Debug\IdeaWeightCalculator.exe.config
+D:\web development\Linq EF\IdeaWeightCalculator\IdeaWeightCalculator\bin\Debug\IdeaWeightCalculator.exe
+D:\web development\Linq EF\IdeaWeightCalculator\IdeaWeightCalculator\bin\Debug\IdeaWeightCalculator.pdb
+D:\web development\Linq EF\IdeaWeightCalculator\IdeaWeightCalculator\obj\Debug\IdeaWeightCalculator.csproj.AssemblyReference.cache
+D:\web development\Linq EF\IdeaWeightCalculator\IdeaWeightCalculator\obj\Debug\IdeaWeightCalculator.csproj.CoreCompileInputs.cache
+D:\web development\Linq EF\IdeaWeightCalculator\IdeaWeightCalculator\obj\Debug\IdeaWeightCalculator.exe
+D:\web development\Linq EF\IdeaWeightCalculator\IdeaWeightCalculator\obj\Debug\IdeaWeightCalculator.pdb
